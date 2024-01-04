@@ -1,4 +1,16 @@
 # 👋 Hello there!
+
+<!--
+Here are some ideas to get you started:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 I'm Pooja Mankar, a passionate Computer Science student with a keen interest in software development, web development.I am dedicated to continuous learning and exploring new technologies to solve real-world problems.
 
 
@@ -13,13 +25,13 @@ I'm Pooja Mankar, a passionate Computer Science student with a keen interest in 
 
 ## 🔧 Skills
 
-Programming Languages: Java.
+- Programming Languages: Java.
 
-Web Development: HTML,CSS,React, Node.js
+- Web Development: HTML,CSS,React, Node.js
 
-Database Management: MongoDB
+- Database Management: MongoDB
 
-Tools and Technologies: Git.
+- Tools and Technologies: Git.
 
 ## 📫 Let's Connect:
 
