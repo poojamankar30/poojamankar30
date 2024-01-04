@@ -17,7 +17,9 @@ I'm Pooja Mankar, a passionate Computer Science student with a keen interest in 
 ## 🚀 About Me:
 
 💻 I am currently pursuing my BTECH in Computer Science at Sandip University.
+
 🌐 My interests span across various domains, including software development and Web development.
+
 📚 I am always on the lookout for opportunities to learn and grow, both academically and professionally.
 
 
@@ -32,7 +34,9 @@ I'm Pooja Mankar, a passionate Computer Science student with a keen interest in 
 ## 📫 Let's Connect:
 
 📧 Email: poojamankar3011@gmail.com
+
 🔗 LinkedIn: pooja-mankar
+
 🌐 Portfolio: work in progress..
 
 
