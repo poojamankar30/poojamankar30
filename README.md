@@ -1,7 +1,8 @@
-👋 Hello there! I'm Pooja Mankar, a passionate Computer Science student with a keen interest in software development, web development.I am dedicated to continuous learning and exploring new technologies to solve real-world problems.
+# 👋 Hello there!
+I'm Pooja Mankar, a passionate Computer Science student with a keen interest in software development, web development.I am dedicated to continuous learning and exploring new technologies to solve real-world problems.
 
 
-🚀 About Me:
+## 🚀 About Me:
 
 💻 I am currently pursuing my BTECH in Computer Science at Sandip University.
 
@@ -10,7 +11,7 @@
 📚 I am always on the lookout for opportunities to learn and grow, both academically and professionally.
 
 
-🔧 Skills
+## 🔧 Skills
 
 Programming Languages: Java.
 
@@ -20,7 +21,7 @@ Database Management: MongoDB
 
 Tools and Technologies: Git.
 
-📫 Let's Connect:
+## 📫 Let's Connect:
 
 📧 Email: poojamankar3011@gmail.com
 
